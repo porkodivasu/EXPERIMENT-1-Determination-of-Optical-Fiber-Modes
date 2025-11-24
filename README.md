@@ -36,6 +36,8 @@ For the single-mode patch cord, observe the blur patterns such as single circula
 
 ## 📊 OBSERVATION AND CALCULATION
 
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
+
 ![opti1](https://github.com/user-attachments/assets/c7a36b8d-9251-4e8e-9871-185872961747)
 
 Parameter of given fiber are, A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91 From fig. shows only 4 LP modes propagates. Total number of modes = V2 / 2 = 4.912 / 2
